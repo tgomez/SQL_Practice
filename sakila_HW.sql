@@ -176,7 +176,7 @@ LIMIT 5;
 -- 8b. How would you display the view that you created in 8a?
 SELECT * FROM top_five;
 
--- 8c. You find that you no longer need the view top_five_genres. Write a query to delete it.
+-- 8c. You find that you no longer need the view top_five. Write a query to delete it.
 DROP VIEW top_five;
  
 
